@@ -1,3 +1,3 @@
 # JavaScript-Practice
 
-my javascript practice w/ open source from The Net Ninja
+my JavaScript & NodeJs & TypeScript practice w/ open source from The Net Ninja
